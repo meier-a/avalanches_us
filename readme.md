@@ -1,4 +1,4 @@
-# Colorado County Avalanche Accidents (2020)
+# Colorado County Avalanche Accidents
 
 This project visualizes avalanche accidents in Colorado from 1951 to 2023, highlighting the counties affected by these incidents. Using interactive mapping techniques, the map allows users to explore the locations and details of each accident, including the primary parties involved, accident dates, and descriptions.
 
